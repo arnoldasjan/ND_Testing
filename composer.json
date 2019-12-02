@@ -1,0 +1,18 @@
+{
+    "name": "arnoldasjanuska/nd_testing",
+    "description": "Homework of Testing",
+    "type": "project",
+    "authors": [
+        {
+            "name": "arnoldasjan",
+            "email": "arnuske@yahoo.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8.4"
+    },
+    "autoload": {
+        "psr-4": {"Nfq\\": "src/"}
+    }
+}
